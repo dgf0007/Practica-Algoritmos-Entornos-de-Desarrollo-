@@ -28,7 +28,7 @@ public abstract class algoritmos {
 	}
 	
 	/**
-	 * Métodod para calcular el factorial de un número
+	 * Método para calcular el factorial de un número
 	 * Recibe un numero por teclado y calcula el factorial de dicho número
 	 * 
 	 * @param Es el número con el que se calculará el factorial
@@ -47,6 +47,30 @@ public abstract class algoritmos {
 			total = total * a;
 		}
 		return total;
+	}
+	
+	/**
+	 * Método para calcular el factorial de un número
+	 * Recibe un numero por teclado y calcula el factorial de dicho número
+	 * 
+	 * @param Es el número con el que se calculará el primo del mismo
+	 * 
+	 * @version 1.0
+	 * 
+	 * @author daniel
+	 * 
+	 * @return devuelve el primo de dicho numero.
+	 **/
+
+	public static boolean Primos(int num) {
+		if (num == 4 || num == 1 || num == 0) {
+			return false;
+		}
+		for (int i = 2; i < num / 2; i++) {
+			if (num % i == 0)
+				return false;
+		}
+		return true;
 	}
 
 
