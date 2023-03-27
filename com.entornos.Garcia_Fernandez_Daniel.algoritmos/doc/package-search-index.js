@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.entornos.Garcia_Fernandez_Daniel.algoritmos","l":"com.entornos.Garcia_Fernandez_Daniel.algoritmos"}];updateSearchResults();

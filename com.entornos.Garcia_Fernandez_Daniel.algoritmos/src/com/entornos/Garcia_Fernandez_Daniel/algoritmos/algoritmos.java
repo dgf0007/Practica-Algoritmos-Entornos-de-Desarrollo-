@@ -3,10 +3,10 @@ package com.entornos.Garcia_Fernandez_Daniel.algoritmos;
 public abstract class algoritmos {
 	
 	/**
-	 * Método de fibonacci
+	 * Metodo de fibonacci
 	 * Recibe un número por teclado y calcula el fibonacci de dicho número
 	 * 
-	 * @param Es el número a calcular el fibonacci
+	 * @param Es el numero a calcular el fibonacci
 	 *  
 	 * @version 1.0
 	 * 
@@ -28,10 +28,10 @@ public abstract class algoritmos {
 	}
 	
 	/**
-	 * Método para calcular el factorial de un número
+	 * Metodo para calcular el factorial de un numero
 	 * Recibe un numero por teclado y calcula el factorial de dicho número
 	 * 
-	 * @param Es el número con el que se calculará el factorial
+	 * @param Es el numero con el que se calculara el factorial
 	 * 
 	 * @version 1.0
 	 * 
@@ -50,10 +50,10 @@ public abstract class algoritmos {
 	}
 	
 	/**
-	 * Método para calcular el factorial de un número
+	 * Metodo para calcular el factorial de un numero
 	 * Recibe un numero por teclado y calcula el factorial de dicho número
 	 * 
-	 * @param Es el número con el que se calculará el primo del mismo
+	 * @param Es el numero con el que se calculara el primo del mismo
 	 * 
 	 * @version 1.0
 	 * 
